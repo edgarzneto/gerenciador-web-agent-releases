@@ -142,7 +142,7 @@ Cadastre o cliente na porta padrão, 21021. Veja [Clientes na mesma porta](#clie
 
 ## Problemas e sugestões
 
-Encontrou um problema ou tem uma ideia? [Abra uma issue](../../issues/new/choose) e escolha **Problema** ou **Sugestão**.
+Encontrou um problema, tem uma ideia ou ficou com dúvida? [Abra uma issue](../../issues/new/choose) e escolha **Problema**, **Sugestão** ou **Dúvida**.
 
 O link **Projeto**, com o símbolo do GitHub, no rodapé do gerenciador, abre esta página. Por ela você também acompanha as versões novas.
 
