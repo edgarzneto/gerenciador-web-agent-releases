@@ -143,6 +143,8 @@ Cadastre o cliente na porta padrão, 21021. Veja [Clientes na mesma porta](#clie
 
 Encontrou um problema ou tem uma ideia? [Abra uma issue](../../issues/new/choose) e escolha **Problema** ou **Sugestão**.
 
+O link **Página do projeto**, no rodapé do gerenciador, abre esta página. Por ela você também acompanha as versões novas.
+
 Não coloque na issue URLs, nomes de clientes ou prints com dados de clientes.
 
 ## Autor
