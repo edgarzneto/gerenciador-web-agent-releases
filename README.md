@@ -34,6 +34,7 @@ O Gerenciador Web-Agent guarda cada versão numa pasta própria e abre cada uma 
 - **Abas PROD e DEV:** separam os ambientes. "Ligar todos" e "Desligar todos" valem só para a aba aberta.
 - **Busca por nome:** sem diferença de maiúsculas e acentos. Atalho Ctrl+F.
 - **URL oculta:** a URL do WebApp começa escondida, para não aparecer num compartilhamento de tela.
+- **Tema claro e escuro:** segue o tema do Windows. O botão com a lua ou o sol, ao lado de "Mostrar dados", troca o tema, e o gerenciador lembra a escolha.
 - **Ligados no topo:** a lista mostra primeiro os clientes ligados.
 - **Bandeja do Windows:** o gerenciador fica perto do relógio. Pelo menu do ícone, você liga e desliga clientes sem abrir a janela.
 - **Iniciar com o Windows:** o gerenciador abre direto na bandeja e liga os clientes marcados.
@@ -143,7 +144,7 @@ Cadastre o cliente na porta padrão, 21021. Veja [Clientes na mesma porta](#clie
 
 Encontrou um problema ou tem uma ideia? [Abra uma issue](../../issues/new/choose) e escolha **Problema** ou **Sugestão**.
 
-O link **Página do projeto**, no rodapé do gerenciador, abre esta página. Por ela você também acompanha as versões novas.
+O link **Projeto**, com o símbolo do GitHub, no rodapé do gerenciador, abre esta página. Por ela você também acompanha as versões novas.
 
 Não coloque na issue URLs, nomes de clientes ou prints com dados de clientes.
 
